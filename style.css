@@ -3,3 +3,13 @@
     padding: 0;
 }
 
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    color: white;
+    background-color: rgb(31, 28, 28);
+}
+
